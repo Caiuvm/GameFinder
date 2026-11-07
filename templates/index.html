@@ -1,0 +1,135 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>GameFinder | Descubra seu próximo jogo</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <div class="app-container">
+
+        <header class="topbar">
+
+            <div class="brand">
+                <div class="brand-icon">G</div>
+
+                <div>
+                    <h1>GameFinder</h1>
+                    <span>Seu próximo jogo começa aqui</span>
+                </div>
+            </div>
+
+            <div class="status">
+                <span class="status-dot"></span>
+                Assistente online
+            </div>
+
+        </header>
+
+
+        <main class="main-content">
+
+            <section class="welcome-section" id="welcome">
+
+                <div class="welcome-icon">🎮</div>
+
+                <h2>Encontre seu próximo jogo favorito.</h2>
+
+                <p>
+                    Conte o que você gosta de jogar.
+                    Nossa inteligência artificial vai encontrar
+                    opções que combinam com seu estilo.
+                </p>
+
+                <div class="suggestions">
+
+                    <button class="suggestion" data-message="Quero um jogo de mundo aberto com sobrevivência e construção">
+                        🌎 Mundo aberto e sobrevivência
+                    </button>
+
+                    <button class="suggestion" data-message="Quero um RPG com uma história envolvente e bastante exploração">
+                        ⚔️ RPG e história envolvente
+                    </button>
+
+                    <button class="suggestion" data-message="Procuro um jogo multiplayer com construção e exploração">
+                        👥 Multiplayer e construção
+                    </button>
+
+                </div>
+
+            </section>
+
+
+            <section class="chat-section">
+
+                <div class="messages" id="messages">
+
+                    <div class="message assistant-message">
+
+                        <div class="avatar">G</div>
+
+                        <div class="message-content">
+                            <div class="message-author">GameFinder</div>
+
+                            <div class="message-bubble">
+                                Olá! Sou o GameFinder. 👋
+
+                                <br><br>
+
+                                Me conte que tipo de jogo você procura.
+                                Pode descrever seus gostos com suas próprias palavras!
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+
+            <div class="input-area">
+
+                <form id="chat-form">
+
+                    <input
+                        type="text"
+                        id="message-input"
+                        placeholder="Ex: Quero um jogo de sobrevivência..."
+                        autocomplete="off"
+                        required
+                    >
+
+                    <button type="submit" id="send-button">
+                        Enviar
+                        <span>➤</span>
+                    </button>
+
+                </form>
+
+                <p class="input-disclaimer">
+                    GameFinder utiliza inteligência artificial para identificar suas preferências.
+                </p>
+
+            </div>
+
+        </main>
+
+    </div>
+
+    <script src="{{ url_for('static', filename='chat.js') }}"></script>
+
+</body>
+</html>

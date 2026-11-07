@@ -1,0 +1,432 @@
+[
+    {
+        "nome": "No Man's Sky",
+        "generos": [
+            "sobrevivência",
+            "aventura",
+            "exploração"
+        ],
+        "caracteristicas": [
+            "mundo aberto",
+            "exploração espacial",
+            "coleta de recursos",
+            "construção",
+            "multiplayer"
+        ],
+        "descricao": "Explore um universo praticamente infinito, descubra planetas, colete recursos, construa bases e sobreviva em diferentes ambientes."
+    },
+    {
+        "nome": "Subnautica",
+        "generos": [
+            "sobrevivência",
+            "aventura",
+            "exploração"
+        ],
+        "caracteristicas": [
+            "mundo aberto",
+            "exploração submarina",
+            "coleta de recursos",
+            "construção",
+            "história"
+        ],
+        "descricao": "Sobreviva em um planeta oceânico, explore profundezas desconhecidas, reúna recursos e descubra os mistérios do ambiente."
+    },
+    {
+        "nome": "Minecraft",
+        "generos": [
+            "sobrevivência",
+            "aventura"
+        ],
+        "caracteristicas": [
+            "mundo aberto",
+            "construção",
+            "coleta de recursos",
+            "multiplayer",
+            "exploração"
+        ],
+        "descricao": "Explore mundos gerados aleatoriamente, colete recursos, construa estruturas e sobreviva sozinho ou com amigos."
+    },
+    {
+        "nome": "Valheim",
+        "generos": [
+            "sobrevivência",
+            "aventura",
+            "RPG"
+        ],
+        "caracteristicas": [
+            "mundo aberto",
+            "construção",
+            "exploração",
+            "multiplayer",
+            "combate"
+        ],
+        "descricao": "Sobreviva em um mundo inspirado na mitologia nórdica, explore biomas, construa bases e enfrente criaturas."
+    },
+    {
+        "nome": "The Witcher 3: Wild Hunt",
+        "generos": [
+            "RPG",
+            "aventura"
+        ],
+        "caracteristicas": [
+            "mundo aberto",
+            "história",
+            "combate",
+            "exploração"
+        ],
+        "descricao": "Viva uma aventura de RPG em um vasto mundo aberto, com narrativa marcante, missões e combates contra monstros."
+    },
+    {
+        "nome": "Terraria",
+        "generos": [
+            "sobrevivência",
+            "aventura",
+            "RPG"
+        ],
+        "caracteristicas": [
+            "exploração",
+            "coleta de recursos",
+            "construção",
+            "combate",
+            "multiplayer"
+        ],
+        "descricao": "Explore cavernas e biomas, colete materiais, construa abrigos e enfrente muitos inimigos e chefes."
+    },
+    {
+        "nome": "Stardew Valley",
+        "generos": [
+            "RPG",
+            "aventura"
+        ],
+        "caracteristicas": [
+            "exploração",
+            "coleta de recursos",
+            "construção",
+            "multiplayer",
+            "história"
+        ],
+        "descricao": "Cuide de uma fazenda, conheça moradores, explore minas e desenvolva sua propriedade no seu próprio ritmo."
+    },
+    {
+        "nome": "Don't Starve Together",
+        "generos": [
+            "sobrevivência",
+            "aventura"
+        ],
+        "caracteristicas": [
+            "coleta de recursos",
+            "construção",
+            "exploração",
+            "multiplayer"
+        ],
+        "descricao": "Trabalhe em equipe para coletar recursos, montar acampamentos e sobreviver em um mundo estranho e perigoso."
+    },
+    {
+        "nome": "Raft",
+        "generos": [
+            "sobrevivência",
+            "aventura"
+        ],
+        "caracteristicas": [
+            "exploração",
+            "coleta de recursos",
+            "construção",
+            "multiplayer"
+        ],
+        "descricao": "Sobreviva em alto-mar, recolha materiais, amplie sua jangada e explore ilhas com amigos."
+    },
+    {
+        "nome": "The Forest",
+        "generos": [
+            "sobrevivência",
+            "aventura"
+        ],
+        "caracteristicas": [
+            "mundo aberto",
+            "coleta de recursos",
+            "construção",
+            "exploração",
+            "combate"
+        ],
+        "descricao": "Após um acidente de avião, explore uma floresta misteriosa, construa abrigos e lute para sobreviver."
+    },
+    {
+        "nome": "Sons of the Forest",
+        "generos": [
+            "sobrevivência",
+            "aventura"
+        ],
+        "caracteristicas": [
+            "mundo aberto",
+            "coleta de recursos",
+            "construção",
+            "exploração",
+            "combate",
+            "multiplayer"
+        ],
+        "descricao": "Explore uma ilha perigosa, reúna recursos, construa estruturas e enfrente ameaças em uma experiência de sobrevivência."
+    },
+    {
+        "nome": "ARK: Survival Evolved",
+        "generos": [
+            "sobrevivência",
+            "aventura"
+        ],
+        "caracteristicas": [
+            "mundo aberto",
+            "coleta de recursos",
+            "construção",
+            "exploração",
+            "combate",
+            "multiplayer"
+        ],
+        "descricao": "Sobreviva em uma ilha habitada por dinossauros, domestique criaturas, construa bases e explore diferentes regiões."
+    },
+    {
+        "nome": "Rust",
+        "generos": [
+            "sobrevivência"
+        ],
+        "caracteristicas": [
+            "mundo aberto",
+            "coleta de recursos",
+            "construção",
+            "combate",
+            "multiplayer"
+        ],
+        "descricao": "Enfrente outros jogadores e os perigos do ambiente enquanto coleta materiais, constrói uma base e tenta sobreviver."
+    },
+    {
+        "nome": "7 Days to Die",
+        "generos": [
+            "sobrevivência",
+            "aventura"
+        ],
+        "caracteristicas": [
+            "mundo aberto",
+            "coleta de recursos",
+            "construção",
+            "exploração",
+            "combate",
+            "multiplayer"
+        ],
+        "descricao": "Sobreviva a um apocalipse zumbi, explore cidades, reúna suprimentos e prepare defesas para enfrentar hordas."
+    },
+    {
+        "nome": "Green Hell",
+        "generos": [
+            "sobrevivência",
+            "aventura"
+        ],
+        "caracteristicas": [
+            "exploração",
+            "coleta de recursos",
+            "construção",
+            "combate",
+            "história"
+        ],
+        "descricao": "Tente sobreviver na floresta amazônica administrando recursos, criando ferramentas e enfrentando perigos naturais."
+    },
+    {
+        "nome": "Red Dead Redemption 2",
+        "generos": [
+            "RPG",
+            "aventura"
+        ],
+        "caracteristicas": [
+            "mundo aberto",
+            "história",
+            "combate",
+            "exploração"
+        ],
+        "descricao": "Explore o Velho Oeste em uma aventura narrativa de mundo aberto, com atividades, personagens e combates."
+    },
+    {
+        "nome": "Grand Theft Auto V",
+        "generos": [
+            "aventura"
+        ],
+        "caracteristicas": [
+            "mundo aberto",
+            "história",
+            "combate",
+            "exploração",
+            "multiplayer"
+        ],
+        "descricao": "Explore a cidade de Los Santos em uma experiência de mundo aberto com missões, atividades e modo online."
+    },
+    {
+        "nome": "Cyberpunk 2077",
+        "generos": [
+            "RPG",
+            "aventura"
+        ],
+        "caracteristicas": [
+            "mundo aberto",
+            "história",
+            "combate",
+            "exploração"
+        ],
+        "descricao": "Explore Night City em um RPG futurista com escolhas, missões, personagens e diferentes estilos de combate."
+    },
+    {
+        "nome": "Elden Ring",
+        "generos": [
+            "RPG",
+            "aventura",
+            "exploração"
+        ],
+        "caracteristicas": [
+            "mundo aberto",
+            "exploração",
+            "combate",
+            "história"
+        ],
+        "descricao": "Explore um vasto mundo de fantasia, enfrente inimigos desafiadores e descubra uma história contada pelo próprio mundo."
+    },
+    {
+        "nome": "The Elder Scrolls V: Skyrim",
+        "generos": [
+            "RPG",
+            "aventura",
+            "exploração"
+        ],
+        "caracteristicas": [
+            "mundo aberto",
+            "exploração",
+            "combate",
+            "história"
+        ],
+        "descricao": "Crie seu personagem e explore uma região de fantasia repleta de cidades, masmorras, missões e criaturas."
+    },
+    {
+        "nome": "Hogwarts Legacy",
+        "generos": [
+            "RPG",
+            "aventura"
+        ],
+        "caracteristicas": [
+            "mundo aberto",
+            "exploração",
+            "combate",
+            "história"
+        ],
+        "descricao": "Estude magia, explore Hogwarts e seus arredores e descubra uma aventura ambientada no universo bruxo."
+    },
+    {
+        "nome": "Assassin's Creed Odyssey",
+        "generos": [
+            "RPG",
+            "aventura",
+            "exploração"
+        ],
+        "caracteristicas": [
+            "mundo aberto",
+            "exploração",
+            "combate",
+            "história"
+        ],
+        "descricao": "Explore a Grécia Antiga em um RPG de mundo aberto com batalhas, exploração e escolhas durante a jornada."
+    },
+    {
+        "nome": "Baldur's Gate 3",
+        "generos": [
+            "RPG",
+            "aventura"
+        ],
+        "caracteristicas": [
+            "história",
+            "combate",
+            "exploração",
+            "multiplayer"
+        ],
+        "descricao": "Viva uma aventura de RPG com escolhas que alteram a história, combates estratégicos e possibilidade de jogar em grupo."
+    },
+    {
+        "nome": "Hades",
+        "generos": [
+            "RPG",
+            "aventura"
+        ],
+        "caracteristicas": [
+            "combate",
+            "história",
+            "exploração"
+        ],
+        "descricao": "Enfrente desafios em uma jornada pelo submundo grego, descubra personagens e evolua suas habilidades a cada tentativa."
+    },
+    {
+        "nome": "Hollow Knight",
+        "generos": [
+            "aventura",
+            "exploração"
+        ],
+        "caracteristicas": [
+            "exploração",
+            "combate",
+            "história"
+        ],
+        "descricao": "Explore um reino subterrâneo interconectado, enfrente criaturas e descubra segredos em uma aventura desafiadora."
+    },
+    {
+        "nome": "Celeste",
+        "generos": [
+            "aventura"
+        ],
+        "caracteristicas": [
+            "história",
+            "exploração"
+        ],
+        "descricao": "Ajude Madeline a escalar uma montanha em uma aventura de plataforma com desafios precisos e uma história pessoal."
+    },
+    {
+        "nome": "Portal 2",
+        "generos": [
+            "aventura"
+        ],
+        "caracteristicas": [
+            "história",
+            "exploração",
+            "multiplayer"
+        ],
+        "descricao": "Resolva quebra-cabeças usando portais em uma campanha solo ou cooperativa com outro jogador."
+    },
+    {
+        "nome": "Resident Evil 4",
+        "generos": [
+            "aventura",
+            "sobrevivência"
+        ],
+        "caracteristicas": [
+            "combate",
+            "história",
+            "exploração"
+        ],
+        "descricao": "Enfrente criaturas e inimigos em uma missão de resgate com exploração, gerenciamento de recursos e ação."
+    },
+    {
+        "nome": "Dead Space",
+        "generos": [
+            "sobrevivência",
+            "aventura"
+        ],
+        "caracteristicas": [
+            "combate",
+            "história",
+            "exploração"
+        ],
+        "descricao": "Sobreviva a bordo de uma nave espacial tomada por criaturas hostis enquanto investiga o que aconteceu."
+    },
+    {
+        "nome": "Phasmophobia",
+        "generos": [
+            "aventura",
+            "sobrevivência"
+        ],
+        "caracteristicas": [
+            "multiplayer",
+            "exploração"
+        ],
+        "descricao": "Investigue locais assombrados em equipe, reúna evidências e tente identificar entidades paranormais."
+    }
+]
